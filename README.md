@@ -1,4 +1,4 @@
-# Lightning Web Components Recipes Open Source
+# Lightning Web Components Recipes Open Sourc
 
 [![Github Workflow](https://github.com/trailheadapps/lwc-recipes-oss/workflows/CI/badge.svg)](https://github.com/trailheadapps/lwc-recipes-oss/actions?query=workflow%3ACI) [![codecov](https://codecov.io/gh/trailheadapps/lwc-recipes-oss/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/lwc-recipes-oss)
 
