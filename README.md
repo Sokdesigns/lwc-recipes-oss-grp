@@ -1,4 +1,4 @@
-# Lightning Web Components Recipes Open Source
+# Lightning Web Components Recipes Open Sourc
 
 ## Recipes Live Version
 
